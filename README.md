@@ -6,5 +6,4 @@
 
 
   ![MintyU's GitHub stats](https://github-readme-stats.vercel.app/api?username=MintyU&show_icons=true&theme=radical) </br>
-  [![MintyU's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MintyU&show_icons=true&hide_border=true&title_color=004386&icon_color=004386)](https://github.com/MintyU)
 </div>
