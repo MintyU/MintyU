@@ -6,5 +6,5 @@
 
 
   ![MintyU's GitHub stats](https://github-readme-stats.vercel.app/api?username=MintyU&show_icons=true&theme=radical)
-  [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={MintyU})](https://solved.ac/{MintyU})
+  [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=MintyU)](https://solved.ac/MintyU)
 </div>
