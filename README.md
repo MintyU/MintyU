@@ -2,4 +2,7 @@
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/></a>
 
-![MintyU's GitHub stats](https://github-readme-stats.vercel.app/api?username=MintyU&show_icons=true&theme=radical) [![MintyU's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MintyU&show_icons=true&hide_border=true&title_color=004386&icon_color=004386)](https://github.com/MintyU)
+<div align="center">
+  ![MintyU's GitHub stats](https://github-readme-stats.vercel.app/api?username=MintyU&show_icons=true&theme=radical)
+  [![MintyU's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MintyU&show_icons=true&hide_border=true&title_color=004386&icon_color=004386)](https://github.com/MintyU)
+</div>
